@@ -1,4 +1,5 @@
-﻿11;101;double;;1500
+﻿id_rooms;Number;Type;Status;Price
+11;101;double;;1500
 12;102;single;;1000
 13;103;double;Banned;1500
 14;104;double;;1500
